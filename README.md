@@ -12,3 +12,7 @@ Experienced Java/Scala Software Developer with exposure to Big Data and distribu
 - Domain Driven Design
 - Domain Specific Language Design
 - Performance Tuning and Optimisation
+
+```rust
+ let expertise = vec!["Java", "Scala", "Agile", "Scrum", "TDD", "BDD", "DDD", "SOA", "REST", "CI/CD", "IoC/DI", "Spark", "Kafka", "Cassandra", "Hadoop", "HDFS"];
+```
