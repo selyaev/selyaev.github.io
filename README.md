@@ -7,7 +7,7 @@ Experienced Java/Scala Software Developer with exposure to Big Data and distribu
 - Test-Driven Development
 - Behaviour-Driven Development
 - Continuous Integration and Delivery
-- Java/Scala Technology Stacks and Tooling - Complex Data Model Development
+- Java/Scala Technology Stacks and Tooling
 - RESTful Web Services Design
 - Domain Driven Design
 - Domain Specific Language Design
