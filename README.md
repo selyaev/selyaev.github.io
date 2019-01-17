@@ -14,5 +14,8 @@ Experienced Java/Scala Software Developer with exposure to Big Data and distribu
 - Performance Tuning and Optimisation
 
 ```rust
- let expertise = vec!["Java", "Scala", "Agile", "Scrum", "TDD", "BDD", "DDD", "SOA", "REST", "CI/CD", "IoC/DI", "Spark", "Kafka", "Cassandra", "Hadoop", "HDFS"];
+ let mut expertise = vec!["Java", "Scala", "Agile", "Scrum", "TDD", "BDD", "DDD", "SOA", "REST", "CI/CD", "IoC/DI", "Spark", "Kafka", "Cassandra", "Hadoop", "HDFS"];
+ loop {
+   expertise.push(obtain_new_skill());
+ }
 ```
