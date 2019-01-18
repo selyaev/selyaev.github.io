@@ -1,4 +1,4 @@
-Java/Scala Software Developer with exposure to Big Data and distributed, high available, eventually consistent systems. Enthusiastic and passionate programmer, constantly learning and adopting new methodologies and paradigms.
+Getting things done on JVM plarform for over 10 years. Designing and building frameworks and distributed systems for living.
 
 ```rust
  let mut expertise = vec!["Java", "Scala", "Agile", "Scrum", "TDD", "BDD", "DDD", "SOA", "REST", "CI/CD", "IoC/DI", "Spark", "Kafka", "Cassandra", "Hadoop", "HDFS"];
