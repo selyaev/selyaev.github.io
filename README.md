@@ -6,3 +6,5 @@ Experienced Java/Scala Software Developer with exposure to Big Data and distribu
    expertise.push(yet_another_buzzword());
  }
 ```
+
+[Buy](https://paypal.me/vitalys?locale.x=en_GB) me a coffee.
